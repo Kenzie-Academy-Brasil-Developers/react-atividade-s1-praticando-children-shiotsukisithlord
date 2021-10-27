@@ -1,0 +1,22 @@
+.grandFather {
+  display: flex;
+  flex-direction: row;
+  height: 99vh;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.dad {
+  padding: 10px;
+  border-radius: 20px;
+  background-color: lightskyblue;
+  border: 2px solid plum;
+  height: 200px;
+  display: flex;
+  align-items: center;
+}
+
+span {
+  color: aliceblue;
+  font-size: 25px;
+  font-weight: 400;
+}
